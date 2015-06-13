@@ -1,0 +1,11 @@
+{
+  "name": "riot-tag-base-ajax",
+  "version": "0.5.0",
+  "description": "Tag for doing ajax requests.",
+  "main": "base-ajax.tag",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Per-Håkan Westman <ph@aspsele.com>",
+  "license": "ISC"
+}
